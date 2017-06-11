@@ -759,22 +759,21 @@ h6,
 }
 #content7-d P {
   text-align: center;
-  font-size: 20px;
+  font-size: 19px;
 }
 #content7-d UL {
-  font-size: 20px;
+  font-size: 19px;
+  text-align: left;
 }
-#content7-c P {
-  text-align: center;
-  font-size: 20px;
-}
-#content7-c UL {
-  font-size: 20px;
-  text-align: center;
+#content7-g P {
+  font-size: 19px;
 }
 #content5-b .mbr-section-title,
 #content5-b p {
   color: #fff;
+}
+#extFeatures7-6 P {
+  font-size: 18px;
 }
 #extFooter1-9 UL {
   color: #ffffff;

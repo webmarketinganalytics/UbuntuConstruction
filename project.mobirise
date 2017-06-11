@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -75,7 +75,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ubuntu Construction</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Qualifications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Why Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Tel : 566 655 656</a></li>",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@THEME_PATH@/components/_images/logo.png\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"https://mobirise.com\">Ubuntu Construction</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"14\">Services</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"15\">Qualifications</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"16\">Projects</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"17\">Why Us</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"18\"></a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"19\">Tel : 566 655 656</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@THEME_PATH@/components/_images/logo.png\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"https://mobirise.com\">Ubuntu Construction</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"40\">Services</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"41\">Qualifications</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"42\">Projects</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"43\">Why Us</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"44\"></a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"45\">Tel : 566 655 656</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n.hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-family: 'Raleway', sans-serif;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n\tfont-family: 'Raleway', sans-serif;\n}\n.link {\n\tfont-size: 1.15rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 1.245rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #282828;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n.btn {\n\tfont-size: 17px;\n}\n",
@@ -419,39 +419,30 @@
           },
           "text1": "<ul><li>Our clients can rest assured that all work performed by our tradespeople meets the highest industry standards.&nbsp;</li></ul>",
           "text2": "<ul><li>We provide engineering fabrication and certification services to a variety of industrial, commercial, mining and civil applications.</li></ul>",
-          "text3": "<p>In order for equipment to be registered, we also supply all reports and relevant procedural documentation for each project.</p><p>&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "20px"
-            },
-            "UL": {
-              "font-size": "20px"
-            }
-          }
+          "text3": "<p><br></p><p>adasdasdasd&nbsp;</p>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"102\"><ul><li>Our clients can rest assured that all work performed by our tradespeople meets the highest industry standards.&nbsp;</li></ul></div>\n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"103\"><ul><li>We provide engineering fabrication and certification services to a variety of industrial, commercial, mining and civil applications.</li></ul></div>\n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"104\"><p><br></p><p>adasdasdasd&nbsp;</p></div>\n          \n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tfont-size: 19px;\n}\nUL {\n\tfont-size: 19px;\n\ttext-align: left;\n}\n",
+          "_customTemplate": true
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-c",
+          "_anchor": "content7-g",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text1": "<ul><li>In order for equipment to be registered, we also supply all reports and relevant procedural documentation for each project.</li></ul>",
-          "text2": "<ul><li>As part of our quality control, we employ specialist outside</li></ul>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time&nbsp;</p>",
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.&nbsp;</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor&nbsp;</p>",
+          "text3": "<p>In order for equipment to be registered, we also supply all reports and relevant procedural documentation for each project.</p>",
           "_styles": {
             "P": {
-              "text-align": "center",
-              "font-size": "20px"
-            },
-            "UL": {
-              "font-size": "20px",
-              "text-align": "center"
+              "font-size": "19px"
             }
           }
         },
@@ -849,6 +840,11 @@
               "color": "#000",
               "family": "socicon"
             }
+          },
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
           }
         },
         {
@@ -890,7 +886,7 @@
             }
           },
           "title": "Ubuntu Construction&nbsp;",
-          "list": "<ul><li><a href=\"\">O</a>ur Services</li><li><a href=\"\">C</a>ontact Us</li><li>Blog</li><li>Blog</li></ul><br><ul>12 Pinetown, Durban Kwazulu Natal, 4000, Tel: Landline number</ul><ul><li><br></li></ul>",
+          "list": "<ul><li><a href=\"\">O</a>ur Services</li><li><a href=\"\">C</a>ontact Us</li><li>FAQ</li><li>Blog</li></ul><br><ul>12 Pinetown, Durban Kwazulu Natal, 4000, Tel: Landline number</ul><ul><li><br></li></ul>",
           "_styles": {
             "UL": {
               "color": "#ffffff"
@@ -1097,7 +1093,7 @@
             }
           },
           "title": "Ubuntu Construction&nbsp;",
-          "list": "<ul><li><a href=\"\">O</a>ur Services</li><li><a href=\"\">C</a>ontact Us</li><li>Blog</li><li>Blog</li></ul><br><ul>12 Pinetown, Durban Kwazulu Natal, 4000, Tel: Landline number</ul><ul><li><br></li></ul>"
+          "list": "<ul><li><a href=\"\">O</a>ur Services</li><li><a href=\"\">C</a>ontact Us</li><li>FAQ</li><li>Blog</li></ul><br><ul>12 Pinetown, Durban Kwazulu Natal, 4000, Tel: Landline number</ul><ul><li><br></li></ul>"
         }
       ]
     }
