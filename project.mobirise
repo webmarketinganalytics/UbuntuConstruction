@@ -132,7 +132,7 @@
                 "showText": true,
                 "text": "We help companies of all sizes with welding and boilermaker services.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FREE QUOTE</a> "
               }
             ],
             "fullScreen": true,
@@ -165,11 +165,20 @@
         {
           "_styles": {
             ".card-subtitle": {
-              "color": "#bcbcbc"
+              "color": "#bcbcbc",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
             },
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "font-size": "24px"
+            },
+            "P": {
+              "font-size": "19px"
             }
           },
           "_tags": [
@@ -450,6 +459,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -844,6 +856,9 @@
           "_styles": {
             "P": {
               "font-size": "18px"
+            },
+            "H4": {
+              "font-size": "22px"
             }
           }
         },
@@ -980,7 +995,7 @@
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Free Quote</a>",
           "_styles": {
             ".btn": {
-              "font-size": "14px"
+              "font-size": "20px"
             },
             "P": {
               "font-size": "20px"

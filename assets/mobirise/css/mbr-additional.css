@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -748,10 +749,18 @@ h6,
 }
 #features4-3 .card-subtitle {
   color: #bcbcbc;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
 }
 #features4-3 .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#features4-3 H4 {
+  font-size: 24px;
+}
+#features4-3 P {
+  font-size: 19px;
 }
 #header3-7 .mbr-section-title,
 #header3-7 .mbr-section-subtitle {
@@ -772,8 +781,14 @@ h6,
 #content5-b p {
   color: #fff;
 }
+#content5-b P {
+  font-size: 20px;
+}
 #extFeatures7-6 P {
   font-size: 18px;
+}
+#extFeatures7-6 H4 {
+  font-size: 22px;
 }
 #extFooter1-9 UL {
   color: #ffffff;
@@ -784,7 +799,7 @@ h6,
   text-align: center;
 }
 #extForm3-a .btn {
-  font-size: 14px;
+  font-size: 20px;
 }
 #extForm3-a P {
   font-size: 20px;
